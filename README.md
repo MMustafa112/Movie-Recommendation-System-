@@ -1,4 +1,4 @@
-🍿 Task 5: Movie Recommendation System
+# 🍿 Task 5: Movie Recommendation System
 Project Goal
 This project implements a foundational Collaborative Filtering system designed to recommend movies to users based on their historical ratings. This is the core engine behind major streaming and e-commerce platforms.
 
@@ -34,3 +34,7 @@ NumPy (Matrix Operations)
 Scikit-learn (cosine_similarity for the core algorithm)
 
 Matplotlib (Visualization, if included)
+
+# DATA SOURCE
+
+https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset/data
